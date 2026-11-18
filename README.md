@@ -8,7 +8,7 @@ XO App is a Flutter Tic-Tac-Toe game where you pick who goes first and play on t
 
 ## App Screen
 
-<table> <tr> <td align="center"><img src="assets/screenshot/xo_splash.png" width="155"><br><sub>Splash Screen</sub></td> <td align="center"><img src="assets/screenshot/xo_screen.png" width="155"><br><sub>XO Screen</sub></td> </tr> </table>
+<table> <tr> <td align="center"><img src="assets/screenshot/xo_splash.png" width="200"><br><sub>Splash Screen</sub></td> <td align="center"><img src="assets/screenshot/xo_screen.png" width="200"><br><sub>XO Screen</sub></td> </tr> </table>
 
 ## Features
 
@@ -27,15 +27,15 @@ The project follows a simple, organized layout:
 
 lib/
 ├── screen/
-│ ├── xo_splash.dart      # Splash screen (choose X or O)
-│ └── xo_screen.dart      # Game board screen
+│ ├── xo_splash.dart # Splash screen (choose X or O)
+│ └── xo_screen.dart # Game board screen
 ├── utils/
-│ ├── app_colors.dart     # App color palette
-│ ├── app_constant.dart   # Constants (asset paths, etc.)
-│ ├── app_scaffold.dart   # Shared scaffold widget
-│ ├── app_styles.dart     # Text styles
-│ └── xo_button.dart      # Reusable X / O button
-└── main.dart             # Application entry point
+│ ├── app_colors.dart # App color palette
+│ ├── app_constant.dart # Constants (asset paths, etc.)
+│ ├── app_scaffold.dart # Shared scaffold widget
+│ ├── app_styles.dart # Text styles
+│ └── xo_button.dart # Reusable X / O button
+└── main.dart # Application entry point
 
 ---
 
